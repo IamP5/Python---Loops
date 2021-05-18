@@ -3,7 +3,7 @@
   should be able to print on the screen a sequence of consecutives int numbers, from "x" to "y",
   one number per line. However, if a number of the sequence is a multiple of 6, then print
   "Multiple of 6" instead the number. Furthermore, the program should show at the final line how
-  many multiples of 6 are in te sequence.
+  many multiples of 6 are in the sequence.
 
 """
 
